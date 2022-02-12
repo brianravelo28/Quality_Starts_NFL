@@ -4,7 +4,7 @@ I wanted to create a new way of looking at the game logs of NFL players, startin
 
 # Medium
 
-Here's the link to my Medium article:
+Here's the link to my Medium article: https://medium.com/@brian.blitz28/a-quality-start-statistic-in-the-nfl-5c3091adec61
 
 # Sources
 
